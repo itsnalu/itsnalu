@@ -1,7 +1,7 @@
 <h1 align="center">Oi! Meu nome é Ana Luísa Moreira</h1>
 <h3 align="center">Aspirante a garota de programa :)</h3>
 
-- 📫 How to reach me **analuisamoreirar@gmail.com**
+- 📫 E-mail:  **analuisamoreirar@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
