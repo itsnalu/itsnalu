@@ -32,3 +32,6 @@
 </div><h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ana-luisa-moreira-rodrigues-8373562b3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ana-luisa-moreira-rodrigues-8373562b3/" height="30" width="40" /></a><a href="https://discord.gg/opps_ana#8327" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="opps_ana#8327" height="30" width="40" /></a><a href="https://instagram.com/oii_analu" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="oii_analu" height="30" width="40" /></a></p>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9400D3&height=120&section=footer"/>
