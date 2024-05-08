@@ -27,9 +27,6 @@
 
 
 <div>
-  <a href="https://github.com/itsnalu" style="float: left; margin-right: 20px;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsnalu&show_icons=true&theme=radical&include_all_commits=false&count_private=true&rank_icon=github"/>
-  </a>
   <a href="https://github.com/itsnalu" style="float: left;">
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnalu&layout=compact&langs_count=10&theme=radical"/>
   </a>
