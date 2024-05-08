@@ -26,6 +26,13 @@
 </div>
 
 
+<div>
+  <a href="https://github.com/itsnalu">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsnalu&show_icons=true&theme=radical&include_all_commits=false&count_private=true&rank_icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsnalu&layout=compact&langs_count=10&theme=radical"/>                                                                                             
+</div>
+
+
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsnalu&bg_color=0d11117&color=ee82ee&line=9400d3&point=ee82ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align = "center"> 
