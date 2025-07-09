@@ -6,8 +6,6 @@
 
 ### 🛠️ Languages and Tools
 
-### 🛠️ Languages and Tools
-
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,swift,javascript,html,css,java,photoshop,illustrator,git,figma,linux,mysql" />
 </p>
