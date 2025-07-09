@@ -4,6 +4,8 @@
 
 <img align="right" height="150" src="https://media1.giphy.com/media/nFLW7PNGgN3lI68rdv/200w.gif?cid=6c09b9527g6ux99id5upqyh6f3xwp0p0hii4n6sy6m3pbh1m&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
 
+---
+
 ### 🛠️ Languages and Tools
 
 <p align="left">
@@ -19,7 +21,7 @@
 ### 📫 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/analumoreirar/" target="_blank">
+  <a href="https://www.linkedin.com/in/ana-luisa-moreira-rodrigues-8373562b3/" target="_blank">
     <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://discord.gg/opps_ana#8327" target="_blank">
