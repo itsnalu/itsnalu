@@ -6,10 +6,11 @@
 
 ### 🛠️ Languages and Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,python,swift,javascript,html,css,java,photoshop,illustrator,git,figma,linux,mysql" />
-</p>
-
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,python,swift,javascript,html,css,java" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=photoshop,illustrator,git,figma,linux,mysql" />
+</div>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=itsnalu&bg_color=0d11117&color=ee82ee&line=9400d3&point=ee82ee&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -17,15 +18,17 @@
 
 ### 📫 Connect with me:
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/ana-luisa-moreira-rodrigues-8373562b3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://discord.gg/opps_ana#8327" target="_blank">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="Discord" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="Discord" height="40" width="40" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/oii_analu" target="_blank">
-    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="Instagram" height="40" width="40" />
   </a>
 </p>
 
