@@ -6,7 +6,7 @@
 
 ### 🛠️ Languages and Tools
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=c,python,swift,javascript,html,css,java" />
   <br>
   <img src="https://skillicons.dev/icons?i=photoshop,illustrator,git,figma,linux,mysql" />
